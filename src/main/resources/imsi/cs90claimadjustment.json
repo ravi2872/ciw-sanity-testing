@@ -1,0 +1,30 @@
+{
+    "cs90Transaction": "CIWINT",
+    "claimTransaction": "CLADJ",
+    "userId": "VDE0C0",
+    "subscriberId": "042674241",
+    "dependentNo": "1",
+    "cs90ClaimNumber": "93239200400",
+    "cs90ClaimAdjustmentNo": "",
+    "originalDcn": "20193057A006180999",
+    "adjustmentDcn": "20193057A006184997",
+    "cs90AdjustmentReasonCd": "021",
+    "wgsAdjustmentReasonCd": "A01",
+    "adjustmentDate": "20200109",
+    "itsDate": "",
+    "sccfNumber": "",
+    "wgsClaimType": "IA",
+    "wgsClaimSource": "",
+    "restartDate": "010920",
+    "irCode1": "",
+    "irCode2": "",
+    "intractionIndicator": "I",
+    "returnStatus": "",
+    "reentryKey": "",
+    "errorCd": [
+        {
+            "errorText": "",
+            "errorCode": ""
+        }
+    ]
+}

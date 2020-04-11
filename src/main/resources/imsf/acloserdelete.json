@@ -1,0 +1,14 @@
+{
+  "dcnNo": "2018176XXXXXX",
+  "itemCode": "80",
+  "sequencenumber": 0,
+  "memberNumber": "N004XXXX",
+  "memberCode": 10,
+  "payActionCode": "ACLOSE",
+  "mailBackDeleteIndicator": "X",
+  "deleteText": [
+   "TEST"
+  
+  ],
+  "userId": "SNMS8AB"
+}

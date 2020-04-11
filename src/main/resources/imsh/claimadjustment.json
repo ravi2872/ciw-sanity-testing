@@ -1,0 +1,14 @@
+{
+   "ClaimNo":"18340WG0908",
+   "CertId":"222222222",
+   "MemberCode":20,
+   "AdjustmentReasonCode":"S01",
+   "ReceivedDate":20170320,
+   "CarveOutDate":0,
+   "ValueIndicator":"",
+   "VendorName":"",
+   "AdjustmentRecieptDate":20170317,
+    "UserId":"SNMSMM9",
+    "immDownPayIndicator": "N",
+   "requestAdjSequenceNo":999
+}

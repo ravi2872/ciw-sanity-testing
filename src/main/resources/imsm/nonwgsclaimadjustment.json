@@ -1,0 +1,32 @@
+{
+  "dsPopupData": {
+    "dsHeaderData": {
+      "claimSourceCode": "DC",
+      "adjustmentReasonCode": "A01"
+    }
+  },
+  "itsData": {
+    "itsOriginalSccfNumber": ""
+  },
+  "adjustmentSequenceNo": 997,
+  "cs90KernelDetails": {
+    "cs90DependentNumber": "2",
+    "ddcNatKnlCs9ClmSrcDcn": ""
+  },
+  "claimLvlData": {
+    "claimHeaderData": {
+      "clmType": "PA",
+      "itemCode": "84",
+      "kernelInd": "CS90",
+      "dcn": "2019308481988"
+    },
+    "memberData": {
+      "certNbr": "047763171"
+    }
+  },
+  "userID": "TEST",
+  "claimAdjustmentData": {
+    "adjustmentRecieptDate": "020191104",
+    "receivedDate": 20180401
+  }
+}
